@@ -1,0 +1,1 @@
+# inter-vue-test
